@@ -1,5 +1,5 @@
-module lunacraft
+module github.com/denalisun/lunacraft
 
 go 1.24.1
 
-require github.com/yuin/gopher-lua v1.1.1 // indirect
+require github.com/yuin/gopher-lua v1.1.1
